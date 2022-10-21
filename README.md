@@ -13,7 +13,7 @@ Analysis of beer sales in Texas
 
 ## Relevant Datasets
 
-[Mixed Beverage Gross Receipts](https://data.texas.gov/browse?q=Mixed%20Beverage%20Gross%20Receipts&sortBy=relevance)
+[Mixed Beverage Gross Receipts](https://www.yelp.com/developers/documentation/v3/get_started)
 [Info on dataset](https://data.texas.gov/stories/s/tj7s-7tc8)
 
 [Texas State Beverage License Explainer(?)](https://www.tabc.texas.gov/static/sites/default/files/2021-03/tabc-sept-2021-license-consolidation-explained-chart.pdf)
